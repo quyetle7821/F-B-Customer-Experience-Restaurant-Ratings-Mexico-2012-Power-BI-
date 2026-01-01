@@ -75,10 +75,87 @@ The dataset consists of **5 main tables** used to build the Restaurant Ratings d
 
 ## 🧠 Design Thinking Process 
 
-1️⃣ Empathize  
+### 1️⃣ Empathize  
 
-<img width="932" height="616" alt="image" src="https://github.com/user-attachments/assets/c304edb3-0c5e-4041-9283-fc72b14d318c" />
+<img width="1365" height="904" alt="image" src="https://github.com/user-attachments/assets/356a1b3a-d8a3-4e18-99b1-6651e7d7629d" />
+
+<img width="1363" height="898" alt="image" src="https://github.com/user-attachments/assets/12042df3-73cb-4c60-8274-a735a67fb2fc" />
 
 
+### 2️⃣ Define point of view 
+
+<img width="1368" height="912" alt="image" src="https://github.com/user-attachments/assets/d578e601-d013-45bd-95e9-0206dd38cef2" />
+
+<img width="1370" height="912" alt="image" src="https://github.com/user-attachments/assets/166438ee-c998-4aff-b723-df2df0c1ede0" />
+
+
+### 3️⃣ Ideate  
+
+<img width="1373" height="905" alt="image" src="https://github.com/user-attachments/assets/ab6c7b5a-816c-41a8-aa93-bd9d97b6e5fd" />
+
+<img width="1370" height="906" alt="image" src="https://github.com/user-attachments/assets/fabff289-b21e-4ebd-b0be-61fd614727ad" />
+
+
+### 4️⃣ Prototype and review 
+
+This part is in the dashboard
+
+
+## 📊 Key Insights & Visualizations 
+
+### 🔍 Dashboard Preview
+
+### 1️⃣ Overview
+
+<img width="1202" height="696" alt="image" src="https://github.com/user-attachments/assets/842facec-d13b-497b-9d8f-d016e891cd9e" />
+
+### 📌 Key Findings: 
+
+**1. Overall Satisfaction Is “Okay”, Service Lags Behind**
+   
+- Avg ratings are moderate **(Avg Overall 1.20 | Avg Food 1.22 | Avg Service 1.09)**.
+  
+→ The biggest improvement lever is **service quality**, not food.
+
+**2. Most Reviews Are Positive, but “Bad” Still Makes Up a Meaningful Share**
+
+- Rating distribution by label: **Good (486)** > **OK (421)** > **Bad (254)** (total ~1.1K reviews).
+
+→ Focus on **reducing bad experiences** to lift the overall average faster.
+
+**3. Review Volume Is Concentrated — San Luis Potosi Dominates the Dataset**
+
+- **San Luis Potosi = 921 ratings** (largest volume) with Avg Overall ~1.21.
+
+→ Any initiative in SLP will have the **highest impact** on overall results.
+
+**4. Clear City Performance Gap (Quality vs Volume)**
+
+- **Cuernavaca** has higher quality (Avg Overall **~1.38**) with moderate volume (**~107**), while **Ciudad Victoria** is lower (Avg Overall **~0.93**, **~121** ratings).
+
+→ Prioritize **Cuernavaca** as a quality benchmark and investigate/repair **Ciudad Victoria**.
+
+**5. Mexican Cuisine Leads Review Share**
+
+- Cuisine share is led by **Mexican (238 | ~30%)**, followed by **Bar (140 | ~18%)** and **Cafeteria (102 | ~13%).**
+
+→ Improving experience in top cuisines will move the needle the most.
+
+**6. Young Consumers Drive Most Ratings**
+
+- The **<25** age group contributes the largest share of reviews (dominant segment on the chart).
+
+→ Target experience improvements and messaging toward this primary reviewer group (but still monitor bias vs other age groups).
+
+
+### 2️⃣ Restaurant & Cuisine
+
+<img width="1207" height="691" alt="image" src="https://github.com/user-attachments/assets/c8981a14-0045-4db0-b7cf-e96af9036be3" />
+
+### 📌 Key Findings: 
+
+#### 3️⃣ Personal Preference
+
+<img width="1204" height="697" alt="image" src="https://github.com/user-attachments/assets/1cd0cfad-9d63-414d-85ad-f263bfd7b5ea" />
 
 
