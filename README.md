@@ -237,8 +237,6 @@ This part is in the dashboard
 
 → If running personalization pilots, start in **high-volume city** segments to get reliable results.
 
-## 🔎 Final Conclusion & Recommendations  
-
 ## 🔎 Final Conclusion & Recommendation
 
 | Strategy | Insight | Recommendation |
